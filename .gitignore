@@ -1,0 +1,18 @@
+# OS Specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
