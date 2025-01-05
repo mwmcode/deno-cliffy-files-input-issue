@@ -35,6 +35,8 @@ ignore default value when `files: true`
 which directory? "PRESS ENTER ↩️"
 # returns `.` instead of provided default value 
 ```
+<img width="736" alt="Screenshot 2025-01-05 at 4 18 52 pm" src="https://github.com/user-attachments/assets/ee537758-f746-43f5-b59b-36858c893c67" />
+
 
 -------
 ### CODE
