@@ -1,6 +1,10 @@
 ### Issue 1 
 - Uncaught (in promise) NotFound: No such file or directory (os error 2)
-![throws not found when wrong path typed](files-issue.mov 'throws not found when wrong path typed').
+
+
+https://github.com/user-attachments/assets/5f7d440a-3d0a-4a34-9d18-2b8a75c88d94
+
+
 
 **steps**
 - `deno task dev`
